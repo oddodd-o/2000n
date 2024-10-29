@@ -23,7 +23,7 @@
   <link rel="stylesheet" href="./dist/css/module/slick.css" />
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" type="text/css" href="./dist/css/comm.css">
-  <script src="./dist/js/module/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <script src="./dist/js/module/slick.min.js"></script>
   <script src="./dist/js/module/include.js" charset="utf-8"></script>
